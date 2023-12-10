@@ -1,0 +1,159 @@
+E-mail:
+G mail: anuariosocieconomico@gmail.com
+Senha: 4nu4r10s0c103c0n0m1c0
+
+Notion:
+Login: profwn@hotmail.com
+Senha: wn091190
+
+Git Hub:
+Username: anuariosocieconomico
+Password: 4nu4ri0s0c103c0n0m1c0
+
+PROJETO 1: Seleção de variáveis, suas estatísticas e indicadores sociais.
+
+Responsável: Wagner 
+Início e fim: 20/07/2020 - 30/06/2024
+
+Sub-Projeto 1: Seleção das estatísticas e indicadores da seção Sinopse do Anuário.
+Início e fim:20/07/2020 - 30/10/2023
+
+Tarefa 1: Identificação dos dados cuja disponibilização ao usuário será automatizada a partir da fonte (estatísticas sociais);
+Tarefa 2: Documentação dos dados cuja disponibilização ao usuário será automatizada a partir da fonte (estatísticas sociais), detalhando sua obtenção;
+Tarefa 3: Distribuição da documentação dos dados cuja disponibilização ao usuário será automatizada a partir da fonte (estatísticas sociais) para os responsáveis pelo projeto 2;
+Tarefa 4: Identificação dos indicadores, cuja disponibilização ao usuário será automatizada e de seus dados, obtidos automaticamente da fonte;
+Tarefa 5: Documentação dos indicadores, cuja disponibilização ao usuário será automatizada e de seus dados, obtidos automaticamente da fonte, detalhando seus cálculos e como obter seus dados;
+Tarefa 6: Distribuição da documentação dos indicadores para os responsáveis pelo projeto 2;
+
+Sub-Projeto 2: Seleção das estatísticas e indicadores da seção Dados Comparados dos Municípios do Anuário.
+Início e fim:20/07/2020 - 30/10/2023
+
+Tarefa 6: Identificação dos dados cuja disponibilização ao usuário será automatizada a partir da fonte (estatísticas sociais);
+Tarefa 7: Documentação dos dados cuja disponibilização ao usuário será automatizada a partir da fonte (estatísticas sociais), detalhando sua obtenção;
+Tarefa 8: Distribuição da documentação dos dados cuja disponibilização ao usuário será automatizada a partir da fonte (estatísticas sociais) para os responsáveis pelo projeto 9;
+Tarefa 10: Identificação dos indicadores, cuja disponibilização ao usuário será automatizada e de seus dados, obtidos automaticamente da fonte;
+Tarefa 11: Documentação dos indicadores, cuja disponibilização ao usuário será automatizada e de seus dados, obtidos automaticamente da fonte, detalhando seus cálculos e como obter seus dados;
+Tarefa 12: Distribuição da documentação dos indicadores para os responsáveis pelo projeto 2;
+
+Sub-Projeto 3: Seleção das estatísticas e indicadores dos sub-projetos 1 e 2, que servirão à versão em dashboard do Anuário.
+Início e fim:01/10/2023 - 30/12/2023
+
+Tarefa 13: Identificação dos dados cuja disponibilização ao usuário é automatizada a partir da fonte (estatísticas sociais) e reunião desses em grupos;
+Tarefa 14: Documentação das variáveis e seus grupos de dados cuja disponibilização ao usuário é automatizada a partir da fonte (estatísticas sociais), detalhando a obtenção e agrupamento dos mesmos;
+Tarefa 15: Distribuição da documentação dos dados cuja disponibilização ao usuário é automatizada a partir da fonte (estatísticas sociais), para os responsáveis pelo projeto 2;
+Tarefa 16: Identificação dos indicadores, cuja disponibilização ao usuário é automatizada e seus dados obtidos automaticamente da fonte e reunião desses em grupos;
+Tarefa 17: Documentação dos indicadores, cuja disponibilização ao usuário é automatizada e seus dados obtidos automaticamente da fonte, bem como dos grupos desses, detalhando seus cálculos e como obter seus dados;
+Tarefa 18: Distribuição da documentação dos indicadores para os responsáveis pelo projeto 2;
+
+Sub-Projeto 4: Seleção de novas estatísticas e indicadores sobre os municípios sergipanos, para a versão em dashboard do Anuário.
+
+Responsáveis: Rodrigo, Ulisses e Wagner
+Início e fim: 15/11/2023 - 30/06/2024
+
+Tarefa 19: Rastreamento na literatura de novas estatísticas e indicadores, reunião desses em grupos e documentação dos mesmos (nome, fórmula, aplicação e fonte);
+Tarefa 20: Entrega da documentação de novas estatísticas e indicadores aos autores do Anuário;
+Tarefa 21: Seleção das estatísticas e indicadores que serão automatizadas no projeto 2.
+
+Sub-Projeto 5: Seleção de novas estatísticas e indicadores sobre o estado, Nordeste e Brasil, para a versão em dashboard do Anuário.
+
+Responsáveis: Rogério, Ulisses e Wagner
+Início e fim: 15/11/2023 - 30/06/2024
+
+Tarefa 22: Rastreamento na literatura de novas estatísticas e indicadores, reunião desses em grupos e documentação dos mesmos (nome, fórmula, aplicação e fonte);
+Tarefa 23: Entrega da documentação de novas estatísticas e indicadores aos autores do Anuário;
+Tarefa 24: Seleção das estatísticas e indicadores que serão automatizadas no projeto 2.
+
+
+PROJETO 2: Automatização de coleta de dados e fornecimento dos mesmos para a criação de visuais.
+
+Sub-projeto 6: Automatização dos dados das figuras da seção Sinopse do Anuário tradicional.
+
+Responsáveis: Daniel e Matheus
+Início e fim: 01/10/2023 - 30/05/2024
+
+Tarefa 25: Automatização dos dados cujas figuras os apresentam como fornecidos pela fonte
+Sub-tarefa 1: Elaborar scripts, em Python, de automatização da busca de dados a partir da fonte, com uso de API e/ou web scraping;
+Sub-tarefa 2: Gerar arquivos em csv ou xls e/ou xlsx, com as estatísticas coletadas, para a criação de visuais.
+Início e fim: 01/10/2023 - 30/12/2023
+
+Tarefa 26: Automatização dos dados das figuras com indicadores sociais.
+Sub-tarefa 3: Elaborar scripts, em Python, de automatização da busca de dados a partir da fonte, com uso de API e/ou web scraping e calcular os indicadores com os mesmos dados, também com o Python e de forma automatizada;
+Sub-tarefa 4: Gerar arquivos em csv ou xls e/ou xlsx, com os indicadores coletados, para a criação de visuais.
+Início e fim: 02/01/2024 - 30/05/2024
+
+Sub-Projeto 7: Automatização dos dados das figuras da seção Dados Comparados dos Municípios.
+
+Responsável: Rodrigo
+Início e fim: 20/07/2020 - 30/10/2023
+
+Tarefa 27: Automatização dos dados cujas figuras os apresentam como fornecidos pela fonte.
+Sub-tarefa 5: Elaborar scripts, em R, de automatização da busca de dados a partir da fonte, com uso de API e/ou web scraping;
+Sub-tarefa 6: Gerar arquivos em csv ou xls e/ou xlsx, com as estatísticas coletadas, para a criação de visuais.
+Sub-tarefa 7: Criar interfaces de saída gráfica dos dados no espaço reservado para tanto do aplicativo web do Anuário na página transparenciatraduzida.ufs.br
+
+Tarefa 28: Automatização dos dados das figuras com indicadores sociais.
+Sub-tarefa 8: Elaborar scripts, em R, de automatização da busca de dados a partir da fonte, com uso de API e/ou web scraping e calcular os indicadores com os mesmos dados, também com o R e de forma automatizada;
+Sub-tarefa 9: Gerar arquivos em csv ou xls e/ou xlsx, com os indicadores coletados, para a criação de visuais.
+Sub-tarefa 10: Criar interfaces de saída gráfica dos dados no espaço reservado para tanto do aplicativo web do Anuário na página transparenciatraduzida.ufs.br
+
+Sub-Projeto 8: Automatização dos dados das figuras da versão do Anuário em dashboards.
+
+Responsáveis: Daniel, Matheus, Rodrigo e Rogério
+Início e fim: 02/01/2023 - 30/09/2024
+
+Tarefa 29: Automatização dos dados como fornecidos pela fonte
+Sub-tarefa 11: Elaborar scripts, em Python, de automatização da busca de dados a partir da fonte, com uso de API e/ou web scraping;
+Sub-tarefa 12: Gerar arquivos em csv ou xls e/ou xlsx, com as estatísticas coletadas, para a criação de visuais.
+
+Tarefa 30: Automatização dos indicadores sociais.
+Sub-tarefa 13: Elaborar scripts, em Python, de automatização da busca de dados a partir da fonte, com uso de API e/ou web scraping e calcular os indicadores com os mesmos dados, também com o Python e de forma automatizada;
+Sub-tarefa 14: Gerar arquivos em csv ou xls e/ou xlsx, com os indicadores coletados, para a criação de visuais.
+
+
+PROJETO 3: Criação de visuais.
+
+Responsáveis: Wagner e Maria
+Início e fim: 01/10/2023 - 30/10/2024
+
+Sub-Projeto 9: Criação das figuras da seção Sinopse do Anuário.
+Início e fim: 01/10/2023 - 28/02/2024
+
+Tarefa 31: Reprodução das figuras e tabelas, em Power Bi, das publicações anteriores (em pdf), a partir dos dados e indicadores atualizados e automatizados entregues no sub-projeto 6.
+
+Sub-Projeto 10: Criação de dashboards para a seção Dados Comparados dos Municípios.
+Início e fim: 01/11/2023 - 30/05/2024
+
+Tarefa 32: Criação de dashboars para a seção, a partir dos dados entregues no sub-projeto 7.
+
+Sub-Projeto 11: Criação de dashboards para a versão em dashboard do Anuário.
+Início e fim: 01/06/2023 - 30/10/2024
+
+Tarefa 33: Criação de dashboars para a versão, a partir dos dados entregues no sub-projeto 8.
+
+
+PROJETO 4: Saídas analíticas preliminares automatizadas.
+
+Responsáveis: Wagner, Rogério e Rodrigo
+Início e fim: 02/05/2023 - 30/10/2025
+
+Sub-Projeto 12: Comentários automatizados às figuras da seção Sinopse.
+Início e fim: 02/01/2024 - 30/10/2024
+
+Tarefa 34: Escolha do modelo explicativo e analítico da relação entre as variáveis, suas estatísticas e indicadores selecionadas em cada figura;
+Tarefa 35: Automatização das saídas dos comentários para cada figura, com o uso de Python, R e Power Bi.
+
+Sub-Projeto 13: Relatórios automatizados aos dashboards.
+Início e fim: 01/11/2024 - 30/10/2025
+
+Tarefa 36: Escolha do modelo explicativo e analítico da relação entre as variáveis, suas estatísticas e indicadores selecionadas em cada dashboard;
+Tarefa 37: Automatização dos relatórios preliminares para cada dashboard, com o uso de Python, R e Power Bi.
+
+
+PROJETO 5: Publicação dos produtos.
+
+Responsáveis: Wagner, Rodrigo e Maria
+Início e fim: 01/11/2023 - 30/10/2025
+
+Tarefa 38: Geração dos arquivos em R e Power Bi, com os visuais produzidos nos projetos 3 e 4;
+Tarefa 39: Entrega dos arquivos em R e Power Bi, com os visuais produzidos nos projetos 3 e 4 para publicação na página Transparência Traduzida pela equipe de Ciências da Informação;
+Tarefa 40: Adequação da versão em dashboard do Anuário ao formato app de mída móvel, com o uso do Power Bi.
