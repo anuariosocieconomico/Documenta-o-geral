@@ -7,4 +7,5 @@ Processos:
 5) Geração de relatório textual de cada figura: Abrir o link do Power Bi e fazer um arquivo txt com os comentários descritivos de cada figura. Salvar o arquivo na pasta correspondente do GitHUb do projeto. Clicar sobre identifcação alfanumérica da figura no GitHub do projeto e, no canto superior direito, clicar com o botão da direita sobre o botão "raw", para selecionar "copiar link". Copiar o link no lugar correspondete do arquivo "Checklist...xlsx".
 6) Geração do link do comentário txt de cada figura: clicar no link do arquivo txt do GitHub do projeto e, no canto superior direito, clicar com o botão da direita sobre o botão "raw", para selecionar "copiar link". Copiar o link no lugar correspondete do arquivo "Checklist...xlsx".
 
-Obs.: Local do arquivo "Checklist": https://docs.google.com/spreadsheets/d/1noeAApOOA1AJpoGKhZ2h9-DHYCUnZp2j/edit?usp=sharing&ouid=104670616018059456890&rtpof=true&sd=true
+Obs.: Local do arquivo Checklist (alterações são publicadas automaticamente no mesmo lugar):
+https://docs.google.com/spreadsheets/d/e/2PACX-1vTL7mknkufMjdDBkVRuhzFeskhyeoVoUiOBeyZtknMwRec84WKOApi60CBoaMLkrA/pubhtml
