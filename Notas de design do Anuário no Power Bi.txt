@@ -1,0 +1,24 @@
+Formatação geral:
+a) Formatos de data nos arquivos que estão no Github, que incluam informações denecessárias (como mês e dia), podem ser ajustados ao se colocar a informação da data no campo correspondente (geralmente "eixo de x") para se fazer a figura. Basta excluir todos os niveis desnecessários, clicando no X ao lado do mesmo, depois o campo de Data é arrastado da tabela para o lugar correspondente no visual.
+b) Cores das linhas, ou colunas: Brasil (azul, #118DFF); Nordeste (vermelho, #F4011D), Sergipe (preto)
+c) Largura da linha 5 pontos;
+d) Cores das barras: Brasil (laranja; #FFB310); Nordeste (vermelho, #F4011D). Sergipe (verde #10CB0C)
+e) Tamanho da fonte no título: 16
+f) Tamanho da fonte de valores de eixo e rótulos, bem como de texto de legenda: 13
+g) Tamanho da célula (quando tabela), ou rótulo (quando valor de coluna ou linha): de preferência 13, mas, não cabendo, 11, ou um pouco menor
+h) Legenda sem título e posicionada no canto inferior direito
+
+1. Todas as tabelas podem ser montadas para todos as regiões (UF), se pode deixar filtrado apenas para Brasil, Nordeste e Sergipe:
+1.1 Na coluna de edição de Visualizações > Criar visual: desabilitar o botão "Manter todos os filtros" e arrrastar o campo "regiões" (disponível na  coluna de edição de "Dados") para o espaço "adicionar os campos de drill-through", da coluna Visualizações > Criar visual.
+1.2 Segurando a tecla Ctrl, selecionar Brasil, Nordeste e Sergipe.
+
+2. As caixas de seleção com unidades de medidas diferentes, tais como, taxa, índice e per capita devem ser formatadas para seleção única (Coluna Visualizações > Formatar o visual > Visual > Configurações de segmento > Seleção: habilitar "seleção única".
+
+3. No gráfico de colunas e linhas, para representar com linhas e colunas valores diferentes de uma mesma variável (como em Regiões, para deixar uma delas em linha),  deve-se ocultá-la na gráfico a partir de uma caixa de seleção. Essa caixa deve ser, em seguida, ocultada. Para tanto, selecione "Exibição" -> "Seleção" no menu e, em seguida, sobre o olho do lado do item correspondente à caixa de seleção. 
+O gráfico de linha dessa variável ocultada pode ser criado como uma medida rápida que selecione a informação e seja
+inserida em "eixo y da linha". Para tanto, certifique-se de ter selecionado o arquivo correspondente à figura, no menu de "Dados" à direita. No menu horizontal, clique em "Página inicial" -> "criar medida rápida". Quando a tela de medida rápida aparecer, escolha "valor filtrado". Abaixo dessa escolha, em valor da base, escolha a variável de valores da linha. Em filtrar, use a região da linha que se quer mostrar e, na caixa de seleção que aparecerá em baixo, selecione a região da linha.
+A linha segue um eixo y da direita e esse segue uma escala própria. Para sincronizar os eixos, de forma que a linha acompanhe os valores das colunas, e fazer desaparecer os valores do eixo da direita, clique em formatar seu visual > visual > eixo y secundário > faixa > selecionar "alinhar zeros" (se o eixo não desaparecer, habilite e desabilite "valores").
+
+4. Para criar subcolunas em tabelas, acrescente as variáveis das subcolunas abaixo da variável que ficará no topo (coluna principal). À medida que você  clicar no desenho de "nivel mais baixo", que fica oculto na parte inferior da tabela durante o designe dela, o drill through será feito para as sucessivas segmentações na sequência das colunas.
+
+5. Para que uma figura (visual) não seja afetado pelo filtro aplicado a outros (como tabelas com valores gerais para download), na opç]ao "formato" do menu horizontal, clique no botão "editar interações". Selecionando a figura desejada, clique no círculo cruzado para desabilitar o filtro. Clique de volta no botão "editar interações" para desabilitá-lo.
